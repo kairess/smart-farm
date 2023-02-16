@@ -3,8 +3,8 @@
 #include <WiFiUdp.h>
 #include <WebServer.h>
 
-const char* ssid     = "thematrix_2.4G";
-const char* password = "thematrix1760";
+const char* ssid     = "WiFi SSID";
+const char* password = "PASSWORD";
 String ip_address    = "";
 
 const int relay_led  = 26;
